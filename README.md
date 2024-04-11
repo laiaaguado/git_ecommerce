@@ -1,5 +1,3 @@
-# git_ecommerce
-GIT tutorial project
 # Online Store: Basetis ecommerce 🛒
 
 Welcome to our online store! This simple eCommerce website allows you to browse and purchase products easily.
